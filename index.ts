@@ -15,13 +15,20 @@ console.log(Besties);
 let scores: number[] = [19, 36, 2006];
 console.log(scores);
 
-let Outcome: [string, string, number, number, boolean] = ["Cherie", "Rosemary", 38, 65, true ];
+let Outcome: [string, string, number, number, boolean] = [
+  "Cherie",
+  "Rosemary",
+  38,
+  65,
+  true,
+];
 console.log(Outcome);
 
-let work: Array<boolean | string | number> =[true, "Kode", 90];
+let work: Array<boolean | string | number> = [true, "Kode", 90];
 console.log(work);
 
-function name(params:number) {
-    
+function multiply(a: number, b: number, c: number): number {
+  return a * b * c;
 }
-export {}
+console.log(multiply(3, 6, 3));
+export {};
