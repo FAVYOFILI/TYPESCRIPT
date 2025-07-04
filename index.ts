@@ -21,6 +21,7 @@ console.log(Outcome);
 let work: Array<boolean | string | number> =[true, "Kode", 90];
 console.log(work);
 
-
-
+function name(params:number) {
+    
+}
 export {}
