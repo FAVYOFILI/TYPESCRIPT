@@ -18,6 +18,9 @@ console.log(scores);
 let Outcome: [string, string, number, number, boolean] = ["Cherie", "Rosemary", 38, 65, true ];
 console.log(Outcome);
 
+let work: Array<boolean | string | number> =[true, "Kode", 90];
+console.log(work);
+
 
 
 export {}
