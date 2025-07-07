@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Booktitle = " Deep Work By Cal Newport";
+console.log(Booktitle);
+var NumbersOfPages = 500;
+console.log(NumbersOfPages);
+var Available = true;
+console.log(Available);
+var Book = ["Deep Work By Cal Newport", 500, true];
+console.log(Book);

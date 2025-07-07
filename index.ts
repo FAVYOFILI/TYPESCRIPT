@@ -32,3 +32,15 @@ function multiply(a: number, b: number, c: number): number {
 }
 console.log(multiply(3, 6, 3));
 export {};
+
+
+let bestfood: string = "Bread and Tea";
+console.log(bestfood);
+
+let subject: string[] = ["Commerce", "Biology", "ICT", "Mathematics", "Accounting"];
+console.log(subject);
+
+function add(a: number, b: number, c:number, d: n) {
+  
+}
+
