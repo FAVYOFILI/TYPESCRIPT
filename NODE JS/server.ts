@@ -10,7 +10,7 @@ console.log(all);
 
 let person: unknown;
 person = {
-  name: "Favour",
+  name: "Favour"
   age: 30,
   isMarried: false,
 };
